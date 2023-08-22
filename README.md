@@ -1,7 +1,8 @@
 # Stablecoin_nUSD
 Implementation of stable coin named "nUSD" which is backed by Ethereum.
 
-Hello,
+The task is to create a new stablecoin called nUSD. The stablecoin will be backed by ETH (similar to DAI). The primary goal of this project is to allow users to deposit ETH and receive 50% of its value in nUSD. Additionally, there will be a redeem function to convert nUSD back into either ETH. If 'n' number of coins are to be redeemed then following criteria should be satisfied - 
+Minimum account balance >= 2 * current USD value of ETH * n  
 
 Some important notes -
 
